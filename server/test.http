@@ -1,0 +1,13 @@
+POST http://localhost:3001/generate-gpt4o-image
+Content-Type: multipart/form-data; boundary=MyBoundary
+
+--MyBoundary
+Content-Disposition: form-data; name="prompt"
+
+Fundo branco de estúdio com lente 85mm
+--MyBoundary
+Content-Disposition: form-data; name="image"; filename="referencia.png"
+Content-Type: image/png
+
+< ./tmp/imagem-teste.png
+--MyBoundary--
