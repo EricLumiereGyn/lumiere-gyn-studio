@@ -1219,7 +1219,7 @@
   {
     "id": "0d370dd0-3256-467f-be9f-c2eced08a486",
     "codigo": "888888",
-    "nome": "aaaa9",
+    "nome": "aa",
     "marca": "LORVE",
     "type": "AAA",
     "materials": "AAAA",
@@ -1244,6 +1244,11 @@
         "acao": "edição",
         "por": "eric@lumieregyn.com.br",
         "em": "2025-05-15T16:01:27.088Z"
+      },
+      {
+        "acao": "edição",
+        "por": "eric@lumieregyn.com.br",
+        "em": "2025-05-20T15:54:47.453Z"
       }
     ],
     "enviadoParaTiny": true,
